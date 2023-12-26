@@ -1,0 +1,14 @@
+.pessoal-form {
+    background-color: #fff; /* Branco normal */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .familiares-form {
+    background-color: #f0f0f0; /* Branco gelo */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
